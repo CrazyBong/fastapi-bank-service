@@ -48,4 +48,9 @@ The API will be available at `http://127.0.0.1:8000`.
 
 ## Time Taken
 
-Approximately 1 hour 30 mins to complete the assignment.
+Approximately 4–5 hours to complete the assignment.
+
+---
+
+**Author:** Shubhranshu Das  
+**Email:** sdas04072005@gmail.com
