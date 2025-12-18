@@ -48,7 +48,7 @@ The API will be available at `http://127.0.0.1:8000`.
 
 ## Time Taken
 
-Approximately 4–5 hours to complete the assignment.
+Approximately 3–4 hours to complete the assignment.
 
 ---
 
